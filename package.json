@@ -1,0 +1,22 @@
+{
+  "name": "node-excise",
+  "version": "1.0.0",
+  "description": "node学习",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yj0zhang/node-excise.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zhangyujie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yj0zhang/node-excise/issues"
+  },
+  "homepage": "https://github.com/yj0zhang/node-excise#readme"
+}
